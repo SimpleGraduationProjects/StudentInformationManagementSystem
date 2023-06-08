@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class DbUtil {
-    private String dbUrl = "jdbc:mysql://localhost:3306/graduation_db_student_manager_web";
+    private String dbUrl = "jdbc:mysql://localhost:3306/graduation_16_db_student_manager_web";
     private String dbUser = "root";
     private String dbPassword = "123456";
     private String jdbcName = "com.mysql.jdbc.Driver";
